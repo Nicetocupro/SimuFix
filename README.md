@@ -101,6 +101,14 @@ SimuFix 是一个模拟复杂产品拆解与维修过程的教学系统。该系
    - 点击“进行维修后安装”按钮，系统展示安装操作的动画过程。
    - 系统生成完整的安装路径，确保每个零部件都被准确安装回原位。
 
+## 界面样式
+
+![image](https://github.com/user-attachments/assets/3dc880e7-8f6f-42ea-b4a3-f4e092c3709b)
+
+![image](https://github.com/user-attachments/assets/d4aad569-bf5c-4ebe-ad62-5eca622599f4)
+
+![image](https://github.com/user-attachments/assets/5aacc1ee-1a63-4d72-a384-24d866f7aca6)
+
 ---
 
 感谢您对 SimuFix 项目的关注和支持！希望这个系统能够帮助您更好地理解和掌握复杂产品的装配、拆解和维修过程。
